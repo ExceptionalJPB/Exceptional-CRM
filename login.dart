@@ -1,1 +1,1 @@
-// Login screen with Firebase Auth
+// Login screen with Firebase Authentication
